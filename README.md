@@ -2,13 +2,15 @@
 
 > **Read-only archive of released versions of clarkwinkelmann/flarum-ext-post-permissions.** Not for installation: use [Packagist](https://packagist.org/packages/clarkwinkelmann/flarum-ext-post-permissions) or the [upstream repository](https://github.com/clarkwinkelmann/flarum-ext-post-permissions).
 
-**0** versions archived · Latest: [`1.0.0`](https://github.com/flarchive/clarkwinkelmann-flarum-ext-post-permissions/tree/archive/v1.0.0) · License: `MIT` · Flarum: `^1.0`
+**3** versions archived · Latest: [`1.0.0`](https://github.com/flarchive/clarkwinkelmann-flarum-ext-post-permissions/tree/archive/v1.0.0) · License: `MIT` · Flarum: `^1.0`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `0.1.0` | 2021-03-16 | `^0.1.0-beta.15` | [Browse](https://github.com/flarchive/clarkwinkelmann-flarum-ext-post-permissions/tree/archive/v0.1.0) |
+| `0.1.1` | 2021-03-19 | `^0.1.0-beta.15` | [Browse](https://github.com/flarchive/clarkwinkelmann-flarum-ext-post-permissions/tree/archive/v0.1.1) |
+| `1.0.0` | 2021-08-03 | `^1.0` | [Browse](https://github.com/flarchive/clarkwinkelmann-flarum-ext-post-permissions/tree/archive/v1.0.0) |
 
 Catalog entry: [packages/clarkwinkelmann-flarum-ext-post-permissions.json](https://github.com/flarchive/archive-index/blob/main/packages/clarkwinkelmann-flarum-ext-post-permissions.json)
 
